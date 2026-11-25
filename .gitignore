@@ -1,2 +1,18 @@
 dist/
 __pycache__/
+
+# Local only, never versioned:
+# Nexus page text
+NEXUS.md
+# Claude Code files
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+# Planning and internal decisions
+PLAN.md
+PLANNING.md
+NOTES.md
+DECISIONS.md
+notes/
+plans/
+decisions/
