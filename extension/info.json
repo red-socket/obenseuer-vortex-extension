@@ -1,6 +1,6 @@
 {
   "name": "Obenseuer",
-  "author": "YOUR_NEXUS_USERNAME",
+  "author": "red-socket",
   "version": "0.1.0",
   "description": "Vortex support for Obenseuer (Steam). Installs BepInEx 5.4.23.6 and manages BepInEx plugins.",
   "gameId": 6792
